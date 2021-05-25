@@ -2,15 +2,15 @@
 
 ```javascript
 const alex = {
-  pronouns: "he" | "him",
-  code: ["Javascript", "Assembler", "C", "C++", "C#", "HTML", "CSS"],
-  tools: ["React", "Node", "Firebase", "Trello", "Jira"],
-  askMeAbout: ["psychology", "photography", "videomaking", "magic tricks"],
+  pronouns: 'he' | 'him',
+  code: ['Javascript', 'Assembler', 'C', 'C++', 'C#', 'HTML', 'CSS'],
+  tools: ['React', 'Node', 'Firebase', 'Trello', 'Jira'],
+  askMeAbout: ['psychology', 'photography', 'videomaking', 'magic tricks'],
   study: {
-    university: "The National Technical University of Ukraine Igor Sikorsky Kyiv Polytechnic Institute",
+    university: 'The National Technical University of Ukraine Igor Sikorsky Kyiv Polytechnic Institute',
     diploma: {
-      received: ["Bachelor", "Master"],
-      inProgress: "Doctorate"
+      received: ['Bachelor', 'Master'],
+      inProgress: 'Doctorate'
     }
   }
 };
