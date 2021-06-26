@@ -3,7 +3,7 @@
 ```javascript
 const alex = {
   pronouns: 'he' | 'him',
-  code: ['Javascript', 'Assembler', 'C', 'C++', 'C#', 'HTML', 'CSS'],
+  code: ['JavaScript', 'TypeScript', 'Assembler', 'C', 'C++', 'C#', 'HTML', 'CSS'],
   tools: ['React', 'Node', 'Firebase', 'Trello', 'Jira'],
   askMeAbout: ['psychology', 'photography', 'videomaking', 'magic tricks'],
   study: {
