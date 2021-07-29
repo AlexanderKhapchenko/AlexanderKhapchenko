@@ -5,7 +5,7 @@ const alex = {
   pronouns: 'he' | 'him',
   code: ['JavaScript', 'TypeScript', 'C', 'C++', 'C#', 'HTML', 'CSS'],
   workedWith: ['React JS', 'React Native', 'Node JS', 'Redux', 'Expres JS' 'Docker', 'GraphQL', 'Firebase'],
-  tools: ['GIT', 'Trello', 'Jira']
+  tools: ['GIT', 'Trello', 'Jira'],
   askMeAbout: ['psychology', 'photography', 'videomaking', 'magic tricks'],
   study: {
     university: 'The National Technical University of Ukraine Igor Sikorsky Kyiv Polytechnic Institute',
