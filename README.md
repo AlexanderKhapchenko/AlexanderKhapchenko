@@ -3,15 +3,17 @@
 ```javascript
 const alex = {
   pronouns: 'he' | 'him',
-  code: ['JavaScript', 'TypeScript', 'C', 'C++', 'C#', 'HTML', 'CSS'],
-  workedWith: ['React JS', 'React Native', 'Node JS', 'Redux', 'Expres JS' 'Docker', 'GraphQL', 'Firebase'],
-  tools: ['GIT', 'Trello', 'Jira'],
+  skills: {
+    main: ['JavaScript', 'TypeScript', 'React JS', 'Redux', 'Node JS', 'Express', 'AWS S3', 'Prisma', 'GraphQL', 'MySQL', 'Firebase', 'HTML5', 'CSS3'],
+    tried: ['Assembler', 'C', 'C++', 'C#', 'Verilog', 'Python', 'React Native'],
+    tools: ['Trello', 'Asana', 'Jira', 'GIT']
+  }
   askMeAbout: ['psychology', 'photography', 'videomaking', 'magic tricks'],
   study: {
     university: 'The National Technical University of Ukraine Igor Sikorsky Kyiv Polytechnic Institute',
     diploma: {
       received: ['Bachelor', 'Master'],
-      inProgress: 'Doctorate'
+      inProgress: 'PhD'
     }
   }
 };
