@@ -4,7 +4,7 @@
 const alex = {
   pronouns: 'he' | 'him',
   skills: {
-    main: ['JavaScript', 'TypeScript', 'React JS', 'Redux', 'Node JS', 'Express', 'AWS S3', 'Prisma', 'GraphQL', 'MySQL', 'Firebase', 'HTML5', 'CSS3'],
+    main: ['JavaScript', 'TypeScript', 'React JS', 'Redux', 'Node JS', 'Express', 'Nest JS', 'TypeORM', 'PostgreSQL', 'Passport.js', 'JWT', 'AWS S3', 'Prisma', 'GraphQL', 'MySQL', 'Firebase', 'HTML5', 'CSS3'],
     tried: ['Assembler', 'C', 'C++', 'C#', 'Verilog', 'Python', 'React Native'],
     tools: ['Trello', 'Asana', 'Jira', 'GIT'],
   },
