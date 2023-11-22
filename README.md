@@ -18,9 +18,16 @@ const alex = {
   },
 };
 ```
-<h2> &#x1f4c8; GitHub Stats </h3>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=AlexanderKhapchenko&show_icons=true&hide_border=true&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34">
+<h2> &#x1f4c8; GitHub Stats </h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderKhapchenko&show_icons=true&hide_border=true&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Stats">
   <br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderKhapchenko&hide=html,css,shell&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34">
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderKhapchenko&hide=html,css,shell&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Top langs">
+</div>
+
+<h2> <img src="https://docs.codewars.com/logo.svg" width="20px" alt="Codewars Logo"> Codewars </h2>
+<div align="center">
+  <a href="https://www.codewars.com/users/AlexanderKhapchenko">
+    <img src="https://www.codewars.com/users/AlexanderKhapchenko/badges/large">
+  <a/>
+</div>
